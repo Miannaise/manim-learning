@@ -164,7 +164,7 @@ pip-selfcheck.json
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+src/media
 # Generated files
 .idea/**/contentModel.xml
 
